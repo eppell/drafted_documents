@@ -2,7 +2,7 @@
 
 
 
-[https://github.com/eppell/drafted_documents/blob/master/img/001.jpg|alt=001]]
+[https://github.com/eppell/drafted_documents/blob/master/00001.jpg]
 
  
 
